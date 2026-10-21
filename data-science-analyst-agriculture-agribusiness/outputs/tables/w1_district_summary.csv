@@ -1,0 +1,38 @@
+district,division,rainfed,mean_yield,sd_yield,min_yield,max_yield,mean_area_kha,mean_prod_kt,cv_pct
+Pakpattan,Sahiwal,False,3493.5,175.0,3110.0,3781.0,142.6,497.4,5.0
+Okara,Sahiwal,False,3421.8,168.2,3172.0,3640.0,202.8,694.0,4.9
+T.T.Singh,Faisalabad,False,3257.2,229.6,2805.0,3519.0,160.5,522.2,7.0
+Lodhran,Multan,False,3224.1,302.2,2581.0,3883.0,190.6,617.2,9.4
+Sahiwal,Sahiwal,False,3187.5,234.4,2689.0,3538.0,141.0,448.3,7.4
+Vehari,Multan,False,3170.8,209.7,2774.0,3475.0,246.2,779.7,6.6
+Khanewal,Multan,False,3142.1,273.8,2681.0,3768.0,208.6,654.8,8.7
+Nankana Sahib,Lahore,False,3122.2,221.5,2652.0,3462.0,128.8,400.2,7.1
+Rahim Yar Khan,Bahawalpur,False,3098.9,316.4,2401.0,3491.0,301.2,931.5,10.2
+Faisalabad,Faisalabad,False,3093.3,208.5,2623.0,3437.0,282.5,872.5,6.7
+Gujranwala,Gujranwala,False,3080.8,218.8,2647.0,3487.0,229.5,707.6,7.1
+Bahawalpur,Bahawalpur,False,3076.7,215.2,2578.0,3404.0,287.1,883.8,7.0
+Bahawalnagar,Bahawalpur,False,3076.5,262.2,2563.0,3714.0,357.4,1103.7,8.5
+Hafizabad,Gujranwala,False,3041.7,232.6,2559.0,3475.0,157.3,478.8,7.6
+Kasur,Lahore,False,3030.9,234.9,2700.0,3621.0,174.7,526.5,7.8
+Chiniot,Faisalabad,False,3005.2,129.6,2733.0,3144.0,107.0,320.6,4.3
+Sheikhupura,Lahore,False,2955.6,265.5,2463.0,3240.0,212.1,628.2,9.0
+Multan,Multan,False,2950.2,325.0,2324.0,3398.0,186.0,548.0,11.0
+Jhang,Faisalabad,False,2949.5,176.7,2592.0,3180.0,296.5,870.8,6.0
+Lahore,Lahore,False,2931.4,318.1,2449.0,3610.0,57.9,168.7,10.9
+Muzaffargarh,D.G.Khan,False,2867.2,225.2,2372.0,3178.0,298.7,854.8,7.9
+Rajanpur,D.G.Khan,False,2824.7,357.3,2332.0,3469.0,175.0,499.9,12.6
+D.G.Khan,D.G.Khan,False,2803.4,256.6,2324.0,3216.0,183.4,516.6,9.2
+Mandi Baha-ud-Din,Gujranwala,False,2692.1,175.8,2444.0,3128.0,139.5,375.8,6.5
+Layyah,D.G.Khan,False,2603.2,216.9,2179.0,3042.0,215.0,561.6,8.3
+Sargodha,Sargodha,False,2549.6,202.0,2244.0,2790.0,212.5,540.8,7.9
+Sialkot,Gujranwala,False,2547.5,354.8,1720.0,3019.0,200.0,510.9,13.9
+Bhakkar,Sargodha,False,2374.5,234.6,2165.0,3071.0,172.4,409.6,9.9
+Mianwali,Sargodha,False,2224.9,315.4,1775.0,2920.0,173.4,384.6,14.2
+Narowal,Gujranwala,False,2194.8,258.5,1767.0,2623.0,152.8,334.8,11.8
+Khushab,Sargodha,False,1864.0,166.0,1587.0,2143.0,92.2,172.5,8.9
+Gujrat,Gujranwala,False,1760.5,173.7,1441.0,2013.0,151.2,266.5,9.9
+Jhelum,Rawalpindi,True,1726.0,257.4,1380.0,2248.0,53.6,92.2,14.9
+Rawalpindi,Rawalpindi,True,1479.8,255.6,898.0,1826.0,112.6,167.7,17.3
+Attock,Rawalpindi,True,1460.2,301.1,979.0,1901.0,162.0,238.7,20.6
+Islamabad,Islamabad (ICT),True,1402.2,270.2,836.0,1692.0,14.2,20.2,19.3
+Chakwal,Rawalpindi,True,1315.0,334.5,612.0,1800.0,119.9,162.0,25.4

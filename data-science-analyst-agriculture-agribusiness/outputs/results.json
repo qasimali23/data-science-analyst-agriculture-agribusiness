@@ -1,0 +1,307 @@
+{
+  "week1": {
+    "punjab_yield_first": 2438.0,
+    "punjab_yield_last": 2978.0,
+    "punjab_yield_mean": 2800.846153846154,
+    "punjab_yield_sd": 163.9363932311585,
+    "punjab_yield_cv_pct": 5.853102392148143,
+    "punjab_yield_slope": 32.98351648351648,
+    "punjab_yield_slope_p": 0.001529946369089408,
+    "punjab_yield_r2": 0.6139504200233518,
+    "punjab_yield_best_year": "2016-17",
+    "punjab_yield_best": 3073.0,
+    "punjab_yield_worst_year": "2007-08",
+    "punjab_yield_worst": 2438.0,
+    "punjab_prod_mean": 18714.076923076922,
+    "punjab_prod_min": 15607.0,
+    "punjab_prod_max": 20466.0,
+    "punjab_prod_min_year": "2007-08",
+    "punjab_prod_max_year": "2016-17",
+    "punjab_area_mean": 6682.076923076923,
+    "punjab_area_min": 6403.0,
+    "punjab_area_max": 6980.0,
+    "punjab_area_cv_pct": 3.035620439994436,
+    "punjab_prod_cv_pct": 6.425808980122436,
+    "corr_dprod_dyield": 0.8766542817586395,
+    "corr_dprod_darea": 0.5550875676427692,
+    "corr_prod_area_levels": 0.44273969575451505,
+    "corr_prod_yield_levels": 0.8874950988528418,
+    "n_districts": 37,
+    "n_cells_total": 481,
+    "n_missing_yield_cells": 4,
+    "missing_cells_detail": [
+      "Chiniot 2007-08",
+      "Chiniot 2008-09",
+      "Islamabad 2012-13",
+      "Islamabad 2013-14"
+    ],
+    "cells_checked_consistency": 490,
+    "cells_inconsistent_gt3pct": 2,
+    "max_inconsistency_pct": 5.691666666666673,
+    "anomalies_published": [
+      {
+        "district": "Lahore",
+        "year": "2009-10",
+        "yld": 781.0,
+        "rz": -10.2
+      },
+      {
+        "district": "Faisalabad",
+        "year": "2007-08",
+        "yld": 2623.0,
+        "rz": -5.4
+      },
+      {
+        "district": "Gujranwala",
+        "year": "2018-19",
+        "yld": 2647.0,
+        "rz": -4.6
+      },
+      {
+        "district": "Gujranwala",
+        "year": "2014-15",
+        "yld": 2717.0,
+        "rz": -3.9
+      },
+      {
+        "district": "Pakpattan",
+        "year": "2007-08",
+        "yld": 3110.0,
+        "rz": -3.5
+      },
+      {
+        "district": "Bahawalnagar",
+        "year": "2007-08",
+        "yld": 2563.0,
+        "rz": -3.5
+      },
+      {
+        "district": "Mandi Baha-ud-Din",
+        "year": "2016-17",
+        "yld": 3128.0,
+        "rz": 3.9
+      },
+      {
+        "district": "Kasur",
+        "year": "2019-20",
+        "yld": 3621.0,
+        "rz": 4.1
+      },
+      {
+        "district": "Khanewal",
+        "year": "2016-17",
+        "yld": 3768.0,
+        "rz": 4.1
+      },
+      {
+        "district": "Bahawalnagar",
+        "year": "2019-20",
+        "yld": 3714.0,
+        "rz": 4.8
+      },
+      {
+        "district": "Bhakkar",
+        "year": "2016-17",
+        "yld": 3071.0,
+        "rz": 5.5
+      },
+      {
+        "district": "Kasur",
+        "year": "2009-10",
+        "yld": 8906.0,
+        "rz": 42.4
+      }
+    ],
+    "kasur_2009_pub_yield": 8906.0,
+    "lahore_2009_pub_yield": 781.0,
+    "kasur_2009_fixed_yield": 2714.285714285714,
+    "lahore_2009_fixed_yield": 2562.5,
+    "kasur_area_other_years_median": 173.5,
+    "lahore_area_other_years_median": 58.0,
+    "top5_districts": [
+      [
+        "Pakpattan",
+        3493
+      ],
+      [
+        "Okara",
+        3422
+      ],
+      [
+        "T.T.Singh",
+        3257
+      ],
+      [
+        "Lodhran",
+        3224
+      ],
+      [
+        "Sahiwal",
+        3187
+      ]
+    ],
+    "bottom5_districts": [
+      [
+        "Jhelum",
+        1726
+      ],
+      [
+        "Rawalpindi",
+        1480
+      ],
+      [
+        "Attock",
+        1460
+      ],
+      [
+        "Islamabad",
+        1402
+      ],
+      [
+        "Chakwal",
+        1315
+      ]
+    ],
+    "district_yield_range": [
+      1315.0,
+      3493.4615384615386
+    ],
+    "district_cv_median": 8.714599630648094,
+    "highest_cv": [
+      [
+        "Chakwal",
+        25.4
+      ],
+      [
+        "Attock",
+        20.6
+      ],
+      [
+        "Islamabad",
+        19.3
+      ],
+      [
+        "Rawalpindi",
+        17.3
+      ],
+      [
+        "Jhelum",
+        14.9
+      ]
+    ],
+    "lowest_cv": [
+      [
+        "Chiniot",
+        4.3
+      ],
+      [
+        "Okara",
+        4.9
+      ],
+      [
+        "Pakpattan",
+        5.0
+      ],
+      [
+        "Jhang",
+        6.0
+      ],
+      [
+        "Mandi Baha-ud-Din",
+        6.5
+      ]
+    ],
+    "rainfed_mean_yield": 1476.6363636363635,
+    "irrigated_mean_yield": 2863.012378246753,
+    "rainfed_n": 5,
+    "irrigated_n": 32,
+    "rainfed_vs_irrigated_gap_pct": 48.42368217280906,
+    "mannwhitney_p": 4.588239882357529e-06,
+    "rainfed_cv_mean": 19.502924732898382,
+    "irrigated_cv_mean": 8.537767191072682,
+    "synchrony_mean_corr_irrigated_divisions": 0.5889847972811361,
+    "rawalpindi_div_yield_cv_pct": 16.524796783204074,
+    "irrigated_div_yield_cv_pct_mean": 8.339788460574905,
+    "rawalpindi_2009_10_yield": 946.6292134831461,
+    "rawalpindi_mean_other_years": 1501.5754387757,
+    "rawalpindi_2009_drop_pct": 36.95759873010614,
+    "corr_area_yield_districts": 0.4049312470365102,
+    "sim_n": 1500,
+    "sim_missing_pct": {
+      "soil_om_pct": 1.9,
+      "soil_ph": 1.6
+    },
+    "sim_yield_mean": 3091.3966666666665,
+    "sim_yield_sd": 541.4372473803307,
+    "sim_yield_q": [
+      2186.0,
+      2766.0,
+      3099.5,
+      3439.25,
+      3953.0
+    ],
+    "sim_zone_yield": {
+      "irrigated": 3169,
+      "rainfed": 2395
+    },
+    "sim_corr_with_yield_pearson": {
+      "rainfall_mm": -0.04,
+      "irrigations": 0.47,
+      "grain_fill_temp_c": -0.44,
+      "nitrogen_kg_ha": 0.21,
+      "phosphorus_kg_ha": 0.04,
+      "soil_om_pct": 0.22,
+      "soil_ph": -0.1,
+      "sowing_delay_days": -0.15,
+      "improved_variety": 0.19,
+      "weed_control": 0.11,
+      "farm_size_ha": -0.02
+    },
+    "sim_corr_with_yield_spearman": {
+      "rainfall_mm": 0.01,
+      "irrigations": 0.36,
+      "grain_fill_temp_c": -0.47,
+      "nitrogen_kg_ha": 0.2,
+      "phosphorus_kg_ha": 0.05,
+      "soil_om_pct": 0.21,
+      "soil_ph": -0.09,
+      "sowing_delay_days": -0.16,
+      "improved_variety": 0.19,
+      "weed_control": 0.11,
+      "farm_size_ha": 0.01
+    },
+    "sim_improved_gain_pct": 6.995400689765474,
+    "sim_weed_gain_pct": 4.171486109875988,
+    "sim_texture_means": {
+      "clay": 3161,
+      "loam": 3104,
+      "sandy": 2980
+    },
+    "sim_irrig_means": {
+      "0": 2307,
+      "1": 2731,
+      "3": 2982,
+      "4": 3149,
+      "5": 3259,
+      "6": 3366
+    },
+    "sim_hot_vs_cool_gap_pct": 19.967123794609844,
+    "sim_n_hot": 262,
+    "sim_n_cool": 397,
+    "sim_lowN_vs_highN_gap_pct": 12.622361999154641,
+    "sim_lateN": 54,
+    "sim_ols_r2": 0.6424125071494783,
+    "sim_std_betas": {
+      "rainfall_mm": 0.22,
+      "irrigations": 0.58,
+      "grain_fill_temp_c": -0.45,
+      "nitrogen_kg_ha": 0.21,
+      "phosphorus_kg_ha": 0.06,
+      "soil_om_pct": 0.18,
+      "soil_ph": -0.1,
+      "sowing_delay_days": -0.16,
+      "improved_variety": 0.21,
+      "weed_control": 0.11
+    }
+  }
+}
